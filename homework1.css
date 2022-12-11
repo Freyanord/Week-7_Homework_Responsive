@@ -4,7 +4,7 @@
     width: 100vw;
     grid-template-columns: 25% 25% 25% 25%;
     grid-template-rows: 100px 400px 100px 100px 150px;
-    grid-area: 
+    grid-template-areas: 
     "header header header header"
     "main main main aside"
     "footer footer footer footer";
